@@ -1,0 +1,8 @@
+<TabView androidTabsPosition="bottom" showingModally="onShowingModally" shownModally="onShownModally">
+    <TabViewItem title="Modal First">
+        <Frame defaultPage="ui/page/modal-tab-page" />
+    </TabViewItem>
+    <TabViewItem title="Modal Second">
+        <Label text="tab 2" />
+    </TabViewItem>
+</TabView>
